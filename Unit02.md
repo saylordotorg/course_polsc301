@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC301: American Political Thought"
+course_description: "An exploration of the theories that have shaped American political thought from the colonial era to the 1960s. Topics include individualism, capitalism, industrialism, slavery, equality, social progressivism, and the civil rights movement."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Constitution** <span id="2"></span> 
 **The Constitution serves as the single governing document in America. 
 In order to understand current governance issues, you will benefit from

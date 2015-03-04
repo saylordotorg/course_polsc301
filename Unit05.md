@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC301: American Political Thought"
+course_description: "An exploration of the theories that have shaped American political thought from the colonial era to the 1960s. Topics include individualism, capitalism, industrialism, slavery, equality, social progressivism, and the civil rights movement."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Antebellum America and Lincoln** <span id="5"></span> 
 **As the nation moved toward civil war, divergent opinions about race,
 equality, states’ rights, and slavery came to the forefront of American
