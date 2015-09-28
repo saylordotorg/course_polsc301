@@ -143,3 +143,4 @@ and so forth.
 - [Unit 9](https://legacy.saylor.org/polsc301/Unit09/)
 - [Unit 10](https://legacy.saylor.org/polsc301/Unit10/)
 - [Unit 11](https://legacy.saylor.org/polsc301/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC301/POLSC301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC301/POLSC301-FinalExam-Answers.html)
