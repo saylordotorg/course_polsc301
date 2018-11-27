@@ -276,7 +276,7 @@ information about the People’s Party.*
 **7.4.3 Muckraking and Social Reform** <span id="7.4.3"></span> 
 -   **Reading: Upton Sinclair’s The Jungle (1906)**
     Link: Upton Sinclair’s *[The
-    Jungle](http://college.cengage.com/history/us/resources/students/primary/meat.htm)[ ](http://www.saylor.org/site/wp-content/uploads/2011/02/Attack-on-the-Meatpackers.pdf)*(1906)
+    Jungle](http://college.cengage.com/history/us/resources/students/primary/meat.htm)[ ](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Attack-on-the-Meatpackers.pdf)*(1906)
     (HTML)  
         
      Also available in:  
@@ -540,9 +540,9 @@ id="7.7.2"></span> 
     Challenge to Liberty” Speech (1936)**
     Link: Herbert Hoover Presidential Library Association’s version of
     Herbert Hoover’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2011/02/Challenge-to-Liberty.pdf)[This
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Challenge-to-Liberty.pdf)[This
     Challenge to
-    Liberty](http://www.hooverassociation.org/hoover/speeches/challenge_to_liberty.php)[”](http://www.saylor.org/site/wp-content/uploads/2011/02/Challenge-to-Liberty.pdf)
+    Liberty](http://www.hooverassociation.org/hoover/speeches/challenge_to_liberty.php)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Challenge-to-Liberty.pdf)
     Speech (1936) (PDF)  
         
      Instructions: Read the text of former president Herbert Hoover’s
