@@ -276,7 +276,7 @@ Government** <span id="10.1"></span> 
 <span id="10.2.5"></span> 
 -   **Reading: “Republican Contract with America” (1994)**
     Link: “[Republican Contract with
-    America](http://www.saylor.org/site/wp-content/uploads/2011/02/REPUBLICAN-CONTRACT-WITH-AMERICA.pdf)”
+    America](https://resources.saylor.org/archived/wp-content/uploads/2011/02/REPUBLICAN-CONTRACT-WITH-AMERICA.pdf)”
     (1994) (PDF)  
         
      Instructions: Read the text of the Republican “Contract with

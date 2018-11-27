@@ -93,7 +93,7 @@ documents (.doc, .ppt, .xls, etc.).</span>
  <span dir="LTR">√    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).</span>  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).</span>  
   
  <span dir="LTR">√    Have completed all courses listed in the [Core
 Program](http://www.saylor.org/majors/political-science/) of the

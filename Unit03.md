@@ -203,7 +203,7 @@ id="3.4.2"></span> 
     “Opinion of the Court, Marbury v. Madison (1803)”**
     Link: The Our Documents Initiative’s version of John Marshall’s
     “[Opinion of the Court, *Marbury v. Madison*
-    (1803)”](http://www.saylor.org/site/wp-content/uploads/2011/01/Marbury-v-Madison.pdf)
+    (1803)”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Marbury-v-Madison.pdf)
     (PDF)  
         
      Instructions: Begin by reading the “Document Info” about this
@@ -219,7 +219,7 @@ id="3.4.3"></span> 
     “Opinion of the Court, McCulloch v. Maryland (1819)”**
     Link:The Our Documents Initiative’s version of John Marshall’s
     “[Opinion of the Court, *McCulloch v. Maryland*
-    (1819)](http://www.saylor.org/site/wp-content/uploads/2011/01/McCulloch-Maryland.pdf)”
+    (1819)](https://resources.saylor.org/archived/wp-content/uploads/2011/01/McCulloch-Maryland.pdf)”
     (PDF)  
         
      Instructions: Begin by reading the “Document Info” about this
