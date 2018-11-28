@@ -113,7 +113,7 @@ id="4.1.1"></span> 
 -   **Reading: PBS’s version of “Andrew Jackson’s Second Annual
     Message”**
     Link: PBS’s version of “[Andrew Jackson’s Second Annual
-    Message](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Jackson-Second-Annual-Message.pdf)”
+    Message](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Jackson-Second-Annual-Message.pdf)”
     (PDF)  
         
      Instructions: Read the excerpt from Jackson’s Second Annual Message
@@ -125,7 +125,7 @@ id="4.1.1"></span> 
 -   **Reading: Emerson Central’s version of Ralph Waldo Emerson’s
     “Self-Reliance”**
     Link: Emerson Central’s version of Ralph Waldo Emerson’s
-    “[Self-Reliance](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Self-Reliance.pdf)”
+    “[Self-Reliance](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Self-Reliance.pdf)”
     (PDF)  
         
      Also available in:  
@@ -163,7 +163,7 @@ those presented to them by other individuals, society, and religion.*
 **4.3 Thoreau and Government Resistance** <span id="4.3"></span> 
 -   **Reading: Thoreau’s “Civil Disobedience” (1849)**
     Link: Thoreau’s “[Civil
-    Disobedience](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Civil-Disobedience.pdf)”
+    Disobedience](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Civil-Disobedience.pdf)”
     (1849) (PDF)  
         
      Also available in:  
@@ -289,7 +289,7 @@ id="4.5.2"></span> 
     version of Alexis de Tocqueville’s Democracy in America**
     Link: University of Virginia: The American Studies Program’s version
     of Alexis de Tocqueville’s *[Democracy in
-    America](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Democracy-in-America-Readings-4.4.2.pdf)*
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Democracy-in-America-Readings-4.4.2.pdf)*
     (PDF)  
         
      Also available in:  
@@ -340,7 +340,7 @@ id="4.5.2"></span> 
     version of Alexis de Tocqueville’s Democracy in America**
     Link: University of Virginia: The American Studies Program’s version
     of Alexis de Tocqueville’s *[Democracy in
-    America](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Democracy-in-America-Readings-4.4.3.pdf)*
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Democracy-in-America-Readings-4.4.3.pdf)*
     (PDF)  
         
      Also available in:  

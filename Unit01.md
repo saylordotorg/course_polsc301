@@ -97,7 +97,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.2 Religion and Government** <span id="1.1.2"></span> 
 -   **Reading: John Winthrop’s “A Model of Christian Charity”**
     Link: John Winthrop’s “[A Model of Christian
-    Charity](https://resources.saylor.org/archived/wp-content/uploads/2011/02/A-Model-of-Christian-Charity.pdf)”
+    Charity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/A-Model-of-Christian-Charity.pdf)”
     (PDF)  
       
      Also available in:  
@@ -126,7 +126,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Excerpts of Roger Williams’ “The Bloody Tenet of
     Persecution”**
     Link: Excerpts of Roger Williams’ [“The Bloody Tenet of
-    Persecution”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Bloody-tenet-of-Prosecution.pdf)
+    Persecution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Bloody-tenet-of-Prosecution.pdf)
     (PDF)  
         
      Instructions: Read the introduction and the text of “The Bloody
@@ -171,7 +171,7 @@ id="1.2"></span> 
       
       
      Link: University of Adelaide’s E-book Version of Thomas Hobbes’
-    *[Leviathan](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Leviathan.pdf)*
+    *[Leviathan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Leviathan.pdf)*
     (PDF)  
         
      Also available in:  
@@ -222,7 +222,7 @@ id="1.2"></span> 
       
      Link: University of Adelaide’s E-book Version of John Locke’s
     *[Second
-    Treatise](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Second-Treatise-of-Government.pdf)*
+    Treatise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Second-Treatise-of-Government.pdf)*
     (PDF)  
         
      Instructions: Read Chapter 1—“Of the State of Nature.”  
@@ -310,7 +310,7 @@ id="1.2.3"></span> 
       
       
      Link: University of Adelaide’s E-book Version of Thomas
-    Hobbes’**[Leviathan](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Leviathan.pdf)* *(PDF)  
+    Hobbes’**[Leviathan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Leviathan.pdf)* *(PDF)  
       
      Also available in:  
 
@@ -358,7 +358,7 @@ id="1.2.3"></span> 
       
      Link: University of Adelaide’s E-book Version of John Locke’s
     *[Second
-    Treatise](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Second-Treatise-of-Government.pdf)*
+    Treatise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Second-Treatise-of-Government.pdf)*
     (PDF)  
       
      Also available in:  
@@ -456,7 +456,7 @@ id="1.2.4"></span> 
     Link: The Constitution Society’s on-line version of Baron de
     Montesquieu’s *Spirit of Laws *:“[Book XI.  Of the Laws Which
     Establish Political Liberty, with Regard to the
-    Constitution](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Of-the-Laws-Which-Establish-Political-Liberty.pdf)”
+    Constitution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Of-the-Laws-Which-Establish-Political-Liberty.pdf)”
     (PDF)  
         
      Also available in:  
@@ -495,7 +495,7 @@ id="1.2.4"></span> 
     New York; December 15, 1773”**
     Link: Hezekiah Nile's “[Association of the Sons of Liberty in New
     York; December 15,
-    1773](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Association-of-the-Sons-of-Liberty-in-New-York.pdf)”
+    1773](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Association-of-the-Sons-of-Liberty-in-New-York.pdf)”
     (PDF)  
         
      Instructions: Read the primary source document written by the Sons
@@ -517,7 +517,7 @@ id="1.2.4"></span> 
     of the Colonists”**
     Link: Hanover University’s version of Samuel Adams’ “[The Rights of
     the
-    Colonists](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Rights-of-the-Colonists.pdf)”
+    Colonists](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Rights-of-the-Colonists.pdf)”
     (PDF)  
         
      Also available in:  
@@ -539,7 +539,7 @@ id="1.2.4"></span> 
     Boston Committee of Correspondence; May 13, 1774”**
     Link: The Writings of Samuel Adams': “[Circulation Letter of the
     Boston Committee of Correspondence; May 14,
-    1774](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Circular-Letter-of-the-Boston-Committee-of-Correspondence.pdf)”
+    1774](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Circular-Letter-of-the-Boston-Committee-of-Correspondence.pdf)”
     (PDF)  
         
      Instructions: Read this primary source document written by the
@@ -562,7 +562,7 @@ id="1.2.4"></span> 
 -   **Reading: Patrick Henry’s “Give Me Liberty or Give Me Death”
     Speech**
     Link: Patrick Henry’s “[Give Me Liberty or Give Me
-    Death](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Patrick-Henry-Give-Me-Liberty-or-Give-Me-Death.pdf)”
+    Death](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Patrick-Henry-Give-Me-Liberty-or-Give-Me-Death.pdf)”
     Speech (PDF)  
         
      Instructions: Read patriot Patrick Henry’s famous speech.  
@@ -605,7 +605,7 @@ id="1.2.4"></span> 
     Paine’s Common Sense**
     Link: Archiving Early America’s on-line version of Thomas Paine’s
     *[Common
-    Sense](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Common-Sense.pdf)*
+    Sense](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Common-Sense.pdf)*
     (PDF)  
       
      Also available in:  
@@ -627,7 +627,7 @@ id="1.2.4"></span> 
 
 -   **Reading: Thomas Jefferson’s “Declaration of Independence”**
     Link: Thomas Jefferson’s[“Declaration of
-    Independence](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Declaration-of-Independence.pdf)”
+    Independence](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Declaration-of-Independence.pdf)”
     (PDF)  
         
      Also available in:  

@@ -106,7 +106,7 @@ id="8.1.2"></span> 
 -   **Reading: President Eisenhower’s News Conference (“Domino Theory”)
     (April 7, 1954)**
     Link: ** President Eisenhower’s News Conference ([“Domino
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Eisenhower-News-Conference.pdf))
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Eisenhower-News-Conference.pdf))
     (April 7, 1954) (PDF)  
         
      Instructions: Please read the text of Eisenhower’s press
@@ -191,9 +191,9 @@ id="8.2.2"></span> 
 
 -   **Reading: “The Southern Manifesto” (1956)**
     Link:
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Southern-Manifesto.pdf)[The
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Southern-Manifesto.pdf)[The
     Southern
-    Manifesto](http://www.strom.clemson.edu/strom/manifesto.html)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Southern-Manifesto.pdf)
+    Manifesto](http://www.strom.clemson.edu/strom/manifesto.html)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Southern-Manifesto.pdf)
     (1956) (PDF)  
         
      Instructions: Read the text of the “Southern Manifesto” from the
