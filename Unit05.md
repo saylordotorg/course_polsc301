@@ -59,9 +59,9 @@ Upon successful completion of this unit, the student will be able to:
     “Declaration of Sentiments of the American Anti-Slavery Society”
     (1833)**
     Link: Internet Archive’s version of William Lloyd Garrison’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/American-Anti-Slavery-Society.pdf)[Declaration
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/American-Anti-Slavery-Society.pdf)[Declaration
     of Sentiments of the American Anti-Slavery
-    Society](http://www.archive.org/details/declarationofsen00amer)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/American-Anti-Slavery-Society.pdf)
+    Society](http://www.archive.org/details/declarationofsen00amer)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/American-Anti-Slavery-Society.pdf)
     (PDF)  
         
      Also available in:  
@@ -130,7 +130,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: “Dred Scott Case: The Supreme Court Decision (1857)”**
     Link: “[Dred Scott Case: The Supreme Court
-    Decision](http://www.pbs.org/wgbh/aia/part4/4h2933.html)[](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Dred-Scott-case.pdf)(1857)”
+    Decision](http://www.pbs.org/wgbh/aia/part4/4h2933.html)[](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Dred-Scott-case.pdf)(1857)”
     (PDF)  
         
      Instructions: Please read the introduction about the U.S. Supreme
@@ -147,9 +147,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: John C. Calhoun’s “Speech on the Importance of Domestic
     Slavery”**
     Link: John C. Calhoun’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/John-Calhoun-Speeches.pdf)[Speech
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/John-Calhoun-Speeches.pdf)[Speech
     on the Importance of Domestic
-    Slavery](http://www.founding.com/founders_library/pageID.2283/default.asp)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/John-Calhoun-Speeches.pdf)
+    Slavery](http://www.founding.com/founders_library/pageID.2283/default.asp)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/John-Calhoun-Speeches.pdf)
     (PDF)  
         
      Instructions: Please read these three speeches by John C. Calhoun,
@@ -184,9 +184,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Furman University: Nineteenth Century Documents Project:
     “South Carolina’s Declaration of Secession”**
     Link: Furman University: Nineteenth Century Documents Project:
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Secession-of-SC.pdf)[South
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Secession-of-SC.pdf)[South
     Carolina’s Declaration of
-    Secession](http://history.furman.edu/%7Ebenson/docs/decl-sc.htm)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Secession-of-SC.pdf)
+    Secession](http://history.furman.edu/%7Ebenson/docs/decl-sc.htm)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Secession-of-SC.pdf)
     (PDF)  
         
      Instructions: Read the text of South Carolina’s Declaration of
@@ -219,7 +219,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Angelina Grimke’s An Appeal to Christian Women of the
     South**
     Link: Angelina Grimke’s *[An Appeal to Christian Women of the
-    South](https://resources.saylor.org/archived/wp-content/uploads/2011/02/APPEAL-TO-THE-CHRISTIAN-WOMEN-OF-THE-SOUTH.pdf)*
+    South](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/APPEAL-TO-THE-CHRISTIAN-WOMEN-OF-THE-SOUTH.pdf)*
     (PDF)  
         
      Instructions: Please read the entire text of the appeal. The essay
@@ -246,9 +246,9 @@ id="5.3.3"></span> 
 -   **Reading: Fordham University: Modern History Sourcebook’s version
     of “The Declaration of Sentiments, Seneca Falls Conference, 1848”**
     Link: Fordham University: Modern History Sourcebook’s version of
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Declaration-of-Sentiments.pdf)[The
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Declaration-of-Sentiments.pdf)[The
     Declaration of Sentiments, Seneca Falls Conference,
-    1848](http://www.fordham.edu/halsall/mod/senecafalls.html)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Declaration-of-Sentiments.pdf)
+    1848](http://www.fordham.edu/halsall/mod/senecafalls.html)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Declaration-of-Sentiments.pdf)
     (PDF)  
       
      Instructions: Please read the text of “The Declaration of
@@ -273,8 +273,8 @@ id="5.3.3"></span> 
 -   **Reading: National Archives’ version of Abraham Lincoln’s
     “Emancipation Proclamation”**
     Link: National Archives’ version of Abraham Lincoln’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Emancipation-Proclamation.pdf)[Emancipation
-    Proclamation](http://www.archives.gov/exhibits/featured_documents/emancipation_proclamation/transcript.html)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Emancipation-Proclamation.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Emancipation-Proclamation.pdf)[Emancipation
+    Proclamation](http://www.archives.gov/exhibits/featured_documents/emancipation_proclamation/transcript.html)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Emancipation-Proclamation.pdf)
     (PDF)  
       
      Instructions: First, please read the introduction and then read the
@@ -285,8 +285,8 @@ id="5.3.3"></span> 
 **5.4.2 Lincoln and Civil War** <span id="5.4.2"></span> 
 -   **Reading: Lincoln’s “Gettysburg Address”**
     Link: Lincoln’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Gettysburg-Address.pdf)[Gettysburg
-    Address](http://showcase.netins.net/web/creative/lincoln/speeches/gettysburg.htm)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Gettysburg-Address.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Gettysburg-Address.pdf)[Gettysburg
+    Address](http://showcase.netins.net/web/creative/lincoln/speeches/gettysburg.htm)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Gettysburg-Address.pdf)
     (PDF)  
       
      Instructions: Please read the introduction and the text of the
@@ -302,9 +302,9 @@ id="5.3.3"></span> 
 
 -   **Reading: Lincoln’s “Second Inaugural Address”**
     Link: Lincoln’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Lincolns-Second-Inaugural-Address.pdf)[Second
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Lincolns-Second-Inaugural-Address.pdf)[Second
     Inaugural
-    Address](http://showcase.netins.net/web/creative/lincoln/speeches/inaug2.htm)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Lincolns-Second-Inaugural-Address.pdf)
+    Address](http://showcase.netins.net/web/creative/lincoln/speeches/inaug2.htm)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Lincolns-Second-Inaugural-Address.pdf)
     (PDF)  
       
      Also available in:  
@@ -328,7 +328,7 @@ id="5.3.3"></span> 
 **5.4.3 War’s End** <span id="5.4.3"></span> 
 -   **Reading: Lincoln’s “Last Public Address”**
     Link: Lincoln’s “[Last Public
-    Address](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Last-Public-Address.pdf)”
+    Address](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Last-Public-Address.pdf)”
     (PDF)  
       
      Instructions: Read the introduction and the text of Lincoln’s Last
@@ -340,9 +340,9 @@ id="5.3.3"></span> 
 -   **Reading: Frederick Douglass.org’s version of Douglass’ “What the
     Black Man Wants.”**
     Link: Frederick Douglass.org’s version of Douglass’
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/What-the-Black-Man-Wants.pdf)[What
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/What-the-Black-Man-Wants.pdf)[What
     the Black Man
-    Wants](http://www.frederickdouglass.org/speeches/#wants)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/What-the-Black-Man-Wants.pdf)
+    Wants](http://www.frederickdouglass.org/speeches/#wants)[.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/What-the-Black-Man-Wants.pdf)
     (PDF)  
         
      Instructions: Please read the introduction and the text of
@@ -357,7 +357,7 @@ id="5.3.3"></span> 
     Amendments to the Constitution”**
     Link: Text of the [“Reconstruction Amendments: 13<sup>th</sup>,
     14<sup>th,</sup> and 15<sup>th</sup> Amendments to the
-    Constitution"](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Amendments-13-14-15.pdf)
+    Constitution"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Amendments-13-14-15.pdf)
     (PDF)  
         
      Instructions: Please read the text of the Thirteenth, Fourteenth,
@@ -389,9 +389,9 @@ id="5.3.3"></span> 
     of the Court”**
     Link: Cornell University: Legal Information Institute’s version of
     Supreme Court Justice Henry Brown’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Plessy-v.-Ferguson.pdf)[Plessy
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Plessy-v.-Ferguson.pdf)[Plessy
     v. Ferguson—Opinion of the
-    Court](http://www.law.cornell.edu/supct/html/historics/USSC_CR_0163_0537_ZO.html)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Plessy-v.-Ferguson.pdf)
+    Court](http://www.law.cornell.edu/supct/html/historics/USSC_CR_0163_0537_ZO.html)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Plessy-v.-Ferguson.pdf)
     (PDF)  
         
      Instructions: Read the text of Justice Brown’s majority decision on

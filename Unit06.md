@@ -102,9 +102,9 @@ Upon successful completion of this unit, the student will be able to:
     American History, 1893”**
     Link: Fordham University: Modern History Sourcebook’s version of
     Frederick Jackson Turner’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Frederick-Jackson-Turner.pdf)[The
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Frederick-Jackson-Turner.pdf)[The
     Significance of the Frontier in American History,
-    1893](http://www.fordham.edu/halsall/mod/1893turner.html)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Frederick-Jackson-Turner.pdf)
+    1893](http://www.fordham.edu/halsall/mod/1893turner.html)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Frederick-Jackson-Turner.pdf)
     (PDF)  
         
      Instructions: Read the excerpts of Turner’s thesis (1893).  
@@ -191,7 +191,7 @@ id="6.2.2"></span> 
     of Andrew Carnegie’s “Gospel of Wealth” (1889)**
     Link: Fordham University: Modern History Sourcebook’s version of
     [Andrew Carnegie’s “Gospel of
-    Wealth”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Andrew-Carnegie.pdf)
+    Wealth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Andrew-Carnegie.pdf)
     (1889)  (PDF)  
         
      Instructions: Read the text of Carnegie’s “Gospel of Wealth.”  
@@ -344,7 +344,7 @@ id="6.3.1"></span> 
 id="6.4.1"></span> 
 -   **Reading: Emma Lazarus’ poem, “The New Colossus” (1883)**
     Link: Emma Lazarus’ poem, “[The New
-    Colossus](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-New-Collossus.pdf)”
+    Colossus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-New-Collossus.pdf)”
     (1883) (PDF)  
         
      Instructions: Read the introduction, the background of the poem on
@@ -358,9 +358,9 @@ id="6.4.1"></span> 
 -   **Reading: The Atlantic Monthly (digital edition): Francis A.
     Walker’s “Restriction of Immigration” (1896)**
     Link: *The Atlantic Monthly* (digital edition): Francis A. Walker’s
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Restriction-of-Immigration.pdf)[Restriction
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Restriction-of-Immigration.pdf)[Restriction
     of
-    Immigration](http://www.theatlantic.com/past/docs/unbound/flashbks/immigr/walke.htm)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Restriction-of-Immigration.pdf)
+    Immigration](http://www.theatlantic.com/past/docs/unbound/flashbks/immigr/walke.htm)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Restriction-of-Immigration.pdf)
     (1896) (PDF)  
         
      Instructions: Read this article by Francis Walker, originally

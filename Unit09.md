@@ -87,7 +87,7 @@ id="9.1.2"></span> 
 -   **Reading: Students for a Democratic Society’s (SDS) “Port Huron
     Statement” (1962)**
     Link: Students for a Democratic Society’s (SDS) “[Port Huron
-    Statement](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Port-Huron-Statement.pdf)”
+    Statement](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Port-Huron-Statement.pdf)”
     (1962) (PDF)  
         
      Instructions: Read the text of the Port Huron Statement.  
@@ -110,7 +110,7 @@ id="9.1.2"></span> 
 id="9.1.3"></span> 
 -   **Reading: Boundless: “Counterculture”**
      Link: Boundless:
-    [“Counterculture”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC301-9.1.3-Counterculture.pdf) (PDF)  
+    [“Counterculture”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC301-9.1.3-Counterculture.pdf) (PDF)  
         
      Instructions: Read the entry above which describes the different
     settings in which counterculture manifested itself in the 1960s.  
@@ -160,7 +160,7 @@ id="9.1.3"></span> 
 **9.2.3 The Equal Rights Amendment** <span id="9.2.3"></span> 
 -   **Reading: The “Equal Rights Amendment”**
     Link: “[The Equal Rights
-    Amendment](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-ERA.pdf)”
+    Amendment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-ERA.pdf)”
     (PDF)  
         
      Instructions: Read the text of the legislation and the brief
@@ -174,7 +174,7 @@ id="9.1.3"></span> 
 **9.2.4 Radical Feminism** <span id="9.2.4"></span> 
 -   **Reading: “No More Miss America!” (1968)**
     Link: “[No More Miss
-    America!](https://resources.saylor.org/archived/wp-content/uploads/2011/02/No-more-miss-america.pdf)”
+    America!](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/No-more-miss-america.pdf)”
     (1968) (PDF)  
         
      Instructions: Read the text of this 1968 press release and the “Ten
@@ -194,7 +194,7 @@ id="9.1.3"></span> 
 Freedom Rides and Freedom Summer** <span id="9.3.1"></span> 
 -   **Reading: SNCC’s “Position Paper: The Basis of Black Power”**
     Link: SNCC’s “[Position Paper: The Basis of Black
-    Power](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-basis-of-black-power.pdf)”
+    Power](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-basis-of-black-power.pdf)”
     (PDF)  
         
      Instructions: Read the text of SNCC’s position paper on “black
@@ -277,7 +277,7 @@ on Washington** <span id="9.3.2"></span> 
     White Privilege”**
     Link: Double Consciousness: [“Malcolm X on Black Nationalism and
     White
-    Privilege”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC301-9.3.3-MalcolmXOnBlackNationalismAndWhitePrivilege.pdf) (PDF)
+    Privilege”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC301-9.3.3-MalcolmXOnBlackNationalismAndWhitePrivilege.pdf) (PDF)
        
         
      Instructions:  Read this article.   
@@ -542,7 +542,7 @@ Radicals** <span id="9.5"></span> 
     Democratic Presidential Nomination” (January 18, 1971)**
     Link: George McGovern’s “[Announcing Candidacy for the 1972
     Democratic Presidential
-    Nomination](https://resources.saylor.org/archived/wp-content/uploads/2011/02/STATEMENT-BY-SENATOR-GEORGE-McGOVERN.pdf)”
+    Nomination](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/STATEMENT-BY-SENATOR-GEORGE-McGOVERN.pdf)”
     (January 18, 1971) (PDF)  
         
      Instructions: Read the text of McGovern’s statement announcing his

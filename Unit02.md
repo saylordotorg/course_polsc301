@@ -139,7 +139,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of Chicago: *The Founders’ Constitution,* on-line
     version of Alexander Hamilton’s Letter to James Duane,
     “[Deficiencies of the
-    Confederation](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Deficiencies-of-the-Confederation.pdf)”
+    Confederation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Deficiencies-of-the-Confederation.pdf)”
     (PDF)  
       
      Instructions: Read the text of Hamilton’s letter to James Duane.   
@@ -361,7 +361,7 @@ id="2.4.2"></span> 
     “Brutus, No. 3”**
     Link: Constitution Society’s version of Anti-Federalist Papers:
     “[Brutus, No.
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Brutus-3.pdf)
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Brutus-3.pdf)
     (PDF)  
         
      Instructions: Read the brief introduction to the “Brutus” papers
@@ -376,7 +376,7 @@ id="2.4.2"></span> 
     “Brutus, No. 2”**
     Link:Constitution Society’s version of Anti-Federalist Papers:
     “[Brutus, No.
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Brutus-2.pdf)
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Brutus-2.pdf)
     (PDF)  
         
      Instructions: Click on and read the html or text (red or yellow
@@ -417,7 +417,7 @@ id="2.5.2"></span> 
 -   **Reading: National Archives’ “The Virginia Declaration of Rights
     (1776)”**
     Link: National Archives’ “[The Virginia Declaration of
-    Rights](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Virginia-Declaration-of-Rights.pdf)”
+    Rights](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Virginia-Declaration-of-Rights.pdf)”
     (PDF)  
       
      Instructions: Read the introduction and text of Virginia’s Bill of
@@ -430,7 +430,7 @@ id="2.5.2"></span> 
     (1787)**
     Link: The Historical Society of the Courts of the State of New
     York’s online version of the “[New York State Bill of
-    Rights](https://resources.saylor.org/archived/wp-content/uploads/2011/01/NY-State-Bill-of-Rights.pdf)”
+    Rights](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/NY-State-Bill-of-Rights.pdf)”
     (1787) (PDF)  
         
      Instructions: Read the text of the New York State Bill of Rights.  
